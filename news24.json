@@ -1,0 +1,174 @@
+{
+ "date_line": "TUESDAY  ·  NOVEMBER 24, 2026",
+ "kicker_top": "WORLD EDITION",
+ "kicker_no": "34 DATED STORIES · 7 REGIONS",
+ "leads": [
+  {
+   "tag": "MIDDLE EAST · STRAIT OF HORMUZ",
+   "icon": "oil",
+   "headline": "MINES SET THREE TANKERS ABLAZE IN HORMUZ",
+   "deck": "IRGC Navy says two ships hit mines in the eastern strait, US air cover failed; Qatar's PM urges no further escalation."
+  },
+  {
+   "tag": "ASIA · MARKETS",
+   "icon": "chip",
+   "headline": "ASIAN MARKETS ROAR BACK AS HUANG RETURNS",
+   "deck": "Taiex closes up 9% after last week's AI rout; Kospi gains 7% to settle at 5,000; Nikkei adds 4%."
+  },
+  {
+   "tag": "EUROPE · WAR",
+   "icon": "drone",
+   "headline": "RUSSIA FIRES 96 DRONES AT UKRAINE",
+   "deck": "Kyiv says 73 downed or jammed by 08:00; a late strike tore open a five-storey block in Zaporizhzhia, two dead."
+  }
+ ],
+ "cards": [
+  {
+   "region": "KOREA",
+   "icon": "radar",
+   "headline": "Russian jets trip Korean air-raid alert",
+   "body": "F-15Ks scramble: the 07:52 alert on Ulleung lasted 3 minutes. No airspace breach, Seoul says."
+  },
+  {
+   "region": "PAKISTAN · SPACE",
+   "icon": "flag",
+   "headline": "Pakistan's first astronaut named",
+   "body": "Muhammad Zeeshan Ali flies on Shenzhou-24 to Tiangong, launching Wednesday."
+  },
+  {
+   "region": "AUSTRALIA",
+   "icon": "scales",
+   "headline": "Australia deal: tech fines up to 5%",
+   "body": "Labor-Greens 'digital duty of care' ties fines to global revenue; users may sue."
+  },
+  {
+   "region": "COLOMBIA",
+   "icon": "flame",
+   "headline": "Car bomb wrecks Colombian state HQ",
+   "body": "Blast late Monday at the Meta governor's office, a day before the peace deal turns 10."
+  },
+  {
+   "region": "GAZA",
+   "icon": "cross",
+   "headline": "Drone strike kills 3 at Gaza police post",
+   "body": "Israeli strike in Al-Mawasi early Tuesday also wounds five, a hospital source says."
+  },
+  {
+   "region": "SINGAPORE",
+   "icon": "chip",
+   "headline": "Singapore: no backdoor for US chips",
+   "body": "Wong vows to uphold export rules after the US blacklists Megaspeed and six firms."
+  },
+  {
+   "region": "NEPAL",
+   "icon": "quake",
+   "headline": "Magnitude-5.6 quake jolts eastern Nepal",
+   "body": "Hit near the Tibet border at 07:17; felt in India, Bhutan, Bangladesh. No deaths."
+  },
+  {
+   "region": "EUROPE",
+   "icon": "crowd",
+   "headline": "EU pact moves 1,283 migrants, not 30,000",
+   "body": "First-year relocations fall far short of the Commission's plan; Hungary, Slovakia opt out."
+  },
+  {
+   "region": "SOUTH AFRICA",
+   "icon": "flood",
+   "headline": "Johannesburg put on flood alert",
+   "body": "Weather service warns of flash floods across Gauteng until Tuesday evening."
+  },
+  {
+   "region": "AMERICAS",
+   "icon": "ball",
+   "headline": "Commanders stun Bengals 22-20",
+   "body": "Stevens' 26-yard field goal as time expires settles Monday Night Football."
+  }
+ ],
+ "briefs": [
+  {
+   "place": "KYIV",
+   "text": "Western chips found in Russian drone, Kyiv says"
+  },
+  {
+   "place": "LONDON",
+   "text": "Champions League: Arsenal 3-1 Atletico, matchday 5"
+  },
+  {
+   "place": "PARIS",
+   "text": "Notre-Dame bells return after the 2019 fire"
+  },
+  {
+   "place": "VATICAN",
+   "text": "Francis's private diary revealed, tells of seeing the devil"
+  },
+  {
+   "place": "TEHRAN",
+   "text": "Iran sets 7 conditions before US talks, Ghalibaf"
+  },
+  {
+   "place": "GREECE",
+   "text": "31,500 wounded troops treated, 62% psychological"
+  },
+  {
+   "place": "ZAMBIA",
+   "text": "Nigeria road crash kills 15, 27 more hurt"
+  },
+  {
+   "place": "DAKAR",
+   "text": "AFCON title ruling due today, Senegalese appeal"
+  },
+  {
+   "place": "TARONGA",
+   "text": "Cyclone relief ship sails for Pukapuka, Nauru"
+  },
+  {
+   "place": "PAGO PAGO",
+   "text": "US leases seabed to miner, 31 leases"
+  },
+  {
+   "place": "TEHRAN",
+   "text": "Iran probes ship hijack, vessel seized"
+  },
+  {
+   "place": "NEW YORK",
+   "text": "'Carême' wins Indie Emmy for best drama"
+  },
+  {
+   "place": "BRASILIA",
+   "text": "Budget package passes 353-128, late Monday"
+  },
+  {
+   "place": "HANOI",
+   "text": "WHO chief tours hospitals, day 3 of Asia tour"
+  },
+  {
+   "place": "WORLDWIDE",
+   "text": "Supermoon, full at 14:53 UTC, first of its kind"
+  },
+  {
+   "place": "RIYADH",
+   "text": "Houthi attack on financial-district tower injures 11"
+  },
+  {
+   "place": "WASHINGTON",
+   "text": "Trump pardons turkeys Freedom and Feather"
+  },
+  {
+   "place": "WASHINGTON",
+   "text": "Treasury widens sanctions on 20+ Iranian firms"
+  },
+  {
+   "place": "WARSAW",
+   "text": "Poland: peace would not end Russian sabotage"
+  },
+  {
+   "place": "RIGA",
+   "text": "Latvia sees 'tipping point' in Ukraine war next year"
+  },
+  {
+   "place": "WASHINGTON",
+   "text": "Huckabee doubts end of Israel aid by year's end"
+  }
+ ],
+ "wire": "SOURCED FROM OPEN REPORTING OF TUESDAY 24 NOVEMBER 2026  ·  AP  ·  REUTERS  ·  ANADOLU  ·  AL JAZEERA  ·  POLITICO  ·  THE HINDU"
+}
