@@ -1,7 +1,11 @@
 # Daily Signal — Tuesday, November 24, 2026
 
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Bomakhilav3939/daily-signal-24nov/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Bomakhilav3939/daily-signal-24nov/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 > [!NOTE]
-> **make.fun entry** — [news-image-20261124](https://make.fun/c/news-image-20261124)
+> **make.fun entry** — [news-image-20261124](https://make.fun/bounty/news-image-20261124)
 > "Sum up the world news of 24 November 2026 in one image."
 
 ## The entry
